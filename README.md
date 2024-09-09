@@ -24,4 +24,5 @@ Local Host-Turing
 ---
 [![](https://visitcount.itsvg.in/api?id=HastiNeg&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly working with Truing Team
+<img src="https://cdn.ituring.ir/research/66/turing.png">
