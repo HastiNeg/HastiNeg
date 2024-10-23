@@ -1,5 +1,6 @@
-# 💫 About Me:
-Local Host-Turing
+# ✨ About Me:
+
+👩🏻‍💻 Hi! I’m a CE student passionate about web development. I’m a quick learner, always eager to explore new technologies and build projects that solve real-world problems. Currently, I’m focused on sharpening my skills and creating clean, efficient code. Let’s connect and create something amazing!
 
 
 ## 🌐 Socials:
